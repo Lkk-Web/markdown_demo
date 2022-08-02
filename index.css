@@ -1,0 +1,13 @@
+#content {
+  width: 50%;
+  height: 100vh;
+  background-color: aqua;
+}
+#output {
+  width: 50%;
+  height: 100vh;
+  /* background-color: red; */
+}
+.test {
+  display: flex;
+}
