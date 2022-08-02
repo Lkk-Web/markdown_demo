@@ -4,7 +4,7 @@
 
 此项目为markdown编辑器demo，有空还会去研究LaTeX的demo
 
-技术栈为：shwodown + Typescript，使用说明和常见问题，可参阅下面的说明，如还有疑问，欢迎联系作者或提交issue。
+技术栈为：shwodown + Typescript + webpack，使用说明和常见问题，可参阅下面的说明，如还有疑问，欢迎联系作者或提交issue。
 
 ## 使用说明
 
@@ -14,9 +14,11 @@
 
 ### 页面如下：
 
-![image-20220703085326865](https://kyingsoft.oss-cn-hangzhou.aliyuncs.com/setting/github/Kyinvite/3.png
+在线地址：[markDown-demo](https://oss.kyingsoft.cn/github/markdown/index.html)
 
-![image-20220703085326865](https://kyingsoft.oss-cn-hangzhou.aliyuncs.com/setting/github/Kyinvite/4.png)
+eg：
+
+![image-20220703085326865](https://oss.kyingsoft.cn/github/markdown/assent/demo1.png)
 
 ## 本项目使用了下面的组件，在此鸣谢
 
