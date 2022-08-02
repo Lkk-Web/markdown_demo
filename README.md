@@ -4,7 +4,7 @@
 
 此项目为markdown编辑器demo，有空还会去研究LaTeX的demo
 
-技术栈为：shwodown + Typescript + webpack，使用说明和常见问题，可参阅下面的说明，如还有疑问，欢迎联系作者或提交issue。
+技术栈为：shwodown + javascript + webpack，使用说明和常见问题，可参阅下面的说明，如还有疑问，欢迎联系作者或提交issue。
 
 ## 使用说明
 
